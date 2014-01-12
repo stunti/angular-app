@@ -1,4 +1,11 @@
-[![Build Status](https://secure.travis-ci.org/angular-app/angular-app.png)](http://travis-ci.org/angular-app/angular-app)
+[![Build Status](https://secure.travis-ci.org/stunti/angular-app.png)](http://travis-ci.org/stunti/angular-app)
+
+## UPDATE FROM STUNTI
+
+I have removed most of server code since I don't use it. I have added several modules which I use:
+* Socket.IO
+* NV3D
+
 
 # [AngularJS](http://www.angularjs.org/) CRUD application demo
 
